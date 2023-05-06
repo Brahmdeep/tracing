@@ -7,10 +7,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-/*
- *  @author: DevProblems(Sarang Kumar A Tak)
- *  Youtube channel: https://youtube.com/@devproblems
- */
+
 @SpringBootApplication
 public class MsTwoApplication {
 
