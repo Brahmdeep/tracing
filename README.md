@@ -16,3 +16,8 @@ Send get request to http://localhost:8080/helloFromMS2  for communication betwee
 
 
 We can then visit grafana dashboard on localhost:3000 and under explore, see the tracing under tempo dashboard.
+
+There are two use cases I implemented:
+Saving and fetching from Database (ms-one)
+Communication between two microservices (ms-one and ms-two)
+
